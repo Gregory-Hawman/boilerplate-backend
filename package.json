@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtmanG/boilerplate-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtmanG/boilerplate-backend/issues"
+  },
+  "homepage": "https://github.com/ArtmanG/boilerplate-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.0",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
