@@ -32,4 +32,6 @@ created all blank so far
 2. updated the package.json to have server, start, and test, under scripts.
 3. updated the knex file to have the correct location to add migrations and seeds. (to the data folder)
 4. boilerplate index.js set up
-5. boilerplate dbConfig.js set up
+5. '         ' dbConfig.js set up
+6. '         ' server.js set up (with a couple of routes)
+7. '         ' users-model set up (with placeholders in place of functions)
