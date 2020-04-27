@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ArtmanG/boilerplate-backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gregory Hawman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ArtmanG/boilerplate-backend/issues"
