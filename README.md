@@ -35,3 +35,5 @@ created all blank so far
 5. '         ' dbConfig.js set up
 6. '         ' server.js set up (with a couple of routes)
 7. '         ' users-model set up (with placeholders in place of functions)
+8. Routes need to be set up, but that's once you know more about the end points you need. 
+9. authorization.js (and other middleware) need to be set up (once you know what you need)
